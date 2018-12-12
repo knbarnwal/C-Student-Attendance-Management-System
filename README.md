@@ -5,6 +5,8 @@ Username:- knbarnwal
 
 Password:- 8971835071
 
+Folowing are some screenshots of the executed code above:- 
+
 
 ![1](https://user-images.githubusercontent.com/30000575/49857280-33692880-fe18-11e8-8ea5-049ec914bee4.png)
 ![2](https://user-images.githubusercontent.com/30000575/49857283-33692880-fe18-11e8-9b46-4c05bf8bbd83.png)
