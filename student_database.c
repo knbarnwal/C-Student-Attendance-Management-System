@@ -581,8 +581,10 @@ int main(){
 	char passcheck[20];
 	read_data(NAMES, REG_NO, PERCENTAGE, WEEK_PROGRESS);
 	box();
-	gotoxy(30,6);
-	printf("\tMCA I Database login");
+	gotoxy(26,5);
+	printf("Christ (Deemed to be University)");
+	gotoxy(24,7);
+	printf("\tMCA I Batch(2017-20) Database login");
 	gotoxy(20,10);
 	printf("Username:- ");
 	scanf(" %[^\n]", usercheck);
